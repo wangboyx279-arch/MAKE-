@@ -1,0 +1,6 @@
+{
+  "name": "青盾金识 - 青年金融素养与防诈安全微信小程序",
+  "description": "青年金融素养提升与风险防范课堂，提供金融素养测评、防骗守护中心、理性消费课堂、投资入门课堂及情景模拟防诈教育系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
